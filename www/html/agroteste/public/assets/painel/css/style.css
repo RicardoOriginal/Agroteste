@@ -1,0 +1,30 @@
+/* 
+    Created on : 09/04/2018, 21:57:04
+    Author     : Ricardo
+*/
+
+.titulo-pg{
+    font-size: 2em;
+    font-weight:  900;
+    text-transform:  uppercase;
+}
+.edit{
+    background: #230398;
+}
+.delete{
+    background: #bb062e;
+}
+.action{
+    padding: 6px;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 0px 2px;
+}
+.action:hover{
+    text-decoration: none;
+    color: #FFF;
+}
+.btn-add{
+    margin-bottom: 10px;
+}
