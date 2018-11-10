@@ -1,6 +1,7 @@
 Agroteste
 ===========
-Sistema web para gerenciamento de rotinas de um laboratório de análises
+Sistema web para gerenciamento de rotinas de um laboratório de análises de sementes.
+www.atager.com.br
 
 Tecnologias
 -----------
@@ -16,5 +17,4 @@ Tecnologias
 
 Status
 ----------
-Ainda em desenvolvimento
-
+Ainda em desenvolvimento.
