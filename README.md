@@ -1,7 +1,15 @@
-Status
-Projeto em desenvolvimento
-
-Finalidade
-Trata-se de um sistema web para controle de rotinas em um laboratório de análises de sementes.
+Agroteste
+===========
+Sistema web para gerenciamento de rotinas de um laboratório de análises
 
 Tecnologias
+-----------
+-lavavel
+-Netbeans
+-PHP
+-Phpmyadim
+
+Status
+----------
+Ainda em desenvolvimento
+
