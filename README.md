@@ -1,7 +1,6 @@
 Agroteste
 ===========
-Sistema web para gerenciamento de rotinas de um laboratório de análises de sementes.
-[Agroteste](http:www.atager.com.br)
+[Agroteste](http:www.atager.com.br), sistema web para gerenciamento de rotinas de um laboratório de análises de sementes.
 
 Tecnologias
 -----------
